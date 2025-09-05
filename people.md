@@ -1,6 +1,6 @@
 # SINLab logo proposal
 
-![SINLab lgo](sinlan-logo-draft.png)
+<img src="sinlab-logo-draft.png" width="400">
 
 # People in SINLab
 
