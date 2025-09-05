@@ -1,9 +1,14 @@
 markdown: kramdown
 
-remote_theme: pages-themes/cayman@v0.2.0
+# FIRST ATTEMPT: use the Jekyll theme Cayman
+# remote_theme: pages-themes/cayman@v0.2.0
+# plugins:
+# - jekyll-remote-theme # add this line to the plugins list if you already have one
+# title: SINLab - Sustainable Immersive Networking Lab
+# description: Web pages of the UiO research team SINLab
+# show_downloads: false
+
+# SECOND ATTEMPT: use the Jekyll theme Feeling Responsive
+remote_theme: phlow/feeling-responsive
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-
-title: SINLab - Sustainable Immersive Networking Lab
-description: Web pages of the UiO research team SINLab
-show_downloads: false
