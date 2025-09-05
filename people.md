@@ -1,3 +1,7 @@
+# SINLab logo proposal
+
+![SINLab lgo](sinlan-logo-draft.png)
+
 # People in SINLab
 
 - Özgü Alay
